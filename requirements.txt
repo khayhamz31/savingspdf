@@ -1,0 +1,6 @@
+tk
+pymupdf
+pillow
+openai
+python-dotenv
+pandas
